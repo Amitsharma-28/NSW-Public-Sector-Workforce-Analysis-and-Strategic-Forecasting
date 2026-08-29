@@ -52,9 +52,12 @@ The headline **1,891,836** figure is the sum of headcounts across all five years
 ```
 .
 ├── README.md
-├── NSWGov_Spreadsheet.xlsx          # Full workbook — raw data + all analysis, pivot tables, and charts
-├── NSWGov_DiscussionPaper_PDF.pdf   # 3-page written discussion paper
-├── NSWGov_PPT_PDF.pdf               # Slide deck for the Steering Committee meeting
+├── NSWGov_Spreadsheet.xlsx            # Full workbook — raw data + all analysis, pivot tables, and charts
+├── deliverables/
+│   ├── NSWGov_DiscussionPaper.docx    # Discussion paper — editable Word version
+│   ├── NSWGov_DiscussionPaper.pdf     # Discussion paper — PDF version
+│   ├── NSWGov_SlideDeck.pptx          # Steering Committee slide deck — editable PowerPoint version
+│   └── NSWGov_SlideDeck.pdf           # Steering Committee slide deck — PDF version
 └── assets/
     ├── headcount-trend-by-gender.png
     ├── pt-trend-by-gender.png
@@ -146,4 +149,4 @@ The analysis closes with four open questions, designed to prompt the Committee's
 |---|---|
 | 📊 [`NSWGov_Spreadsheet`](./NSWGov_Spreadsheet.xlsx) | The full Excel workbook — raw data plus every analysis and pivot table behind the findings |
 | 📄 [`NSWGov_DiscussionPaper`](./deliverables/NSWGov_DiscussionPaper.pdf) | The 3-page written discussion paper |
-| 📽️ [`NSWGov_SlideDeck`](./deliverables/NSWGov_SlideDeck.pdf) | The slide deck presented at the Steering Committee meeting |
+| 📽️ [`NSWGov_SlideDeck`](./deliverables/NSWGov_SlideDeck.pdf) | The slide deck for the Steering Committee meeting |
