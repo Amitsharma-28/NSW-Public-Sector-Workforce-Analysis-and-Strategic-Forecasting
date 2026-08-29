@@ -56,7 +56,10 @@ The headline **1,891,836** figure is the sum of headcounts across all five years
 ├── NSWGov_DiscussionPaper_PDF.pdf   # 3-page written discussion paper
 ├── NSWGov_PPT_PDF.pdf               # Slide deck for the Steering Committee meeting
 └── assets/
-    ├── part-time-trend-by-gender.png
+    ├── headcount-trend-by-gender.png
+    ├── pt-trend-by-gender.png
+    ├── cluster-breakdown-overall.png
+    ├── cluster-breakdown-by-gender.png
     └── 2025-projection.png
 ```
 
