@@ -106,16 +106,14 @@ The table below has the full picture for all 10 clusters — the overall part-ti
 <details>
 <summary><strong>Full cluster breakdown (2014 vs 2018)</strong></summary>
 <br>
-
 **Overall part-time rate, by cluster**
-
+ 
 ![Overall part-time rate by cluster, 2014 vs 2018](assets/cluster-breakdown-overall.png)
-
+ 
 **Part-time rate by cluster, split by gender** — i.e. female part-time headcount ÷ total female headcount (and the same for male), so each column reads as a share of that gender's own workforce, not of total headcount.
-
+ 
 ![Part-time rate by cluster split by gender, 2014 vs 2018](assets/cluster-breakdown-by-gender.png)
-
-
+ 
 </details>
 
 ### 4. Projected to 2025, the gender gap narrows but doesn't close
