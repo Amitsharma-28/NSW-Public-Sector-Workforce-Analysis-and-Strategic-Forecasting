@@ -89,7 +89,7 @@ The headline **1,891,836** figure is the sum of headcounts across all five years
 Total sector headcount fell **0.76%** between 2014 and 2018 (382,385 → 379,460). That fall was driven almost entirely by male headcount, down **3.05%** (−4,198 people), while female headcount grew **0.52%** (+1,273). As a result, the female share of the sector rose from **64.0% to 64.8%**, and the male share fell from **36.0% to 35.2%**.
 
 ### 2. Part-time employment is rising — fastest among men
-![Part-time employment trend by gender, 2014–2018](assets/part-time-trend-by-gender.png)
+![Part-time employment trend by gender, 2014–2018](assets/pt-trend-by-gender.png)
 
 The sector-wide part-time rate rose from **26.7% to 29.6% (+2.9pp)**. The gender gap in part-time work is still wide, but it moved: the **female** part-time rate barely shifted (35.9% → 36.7%, +0.7pp), while the **male** part-time rate more than doubled its percentage-point contribution (10.2% → 16.5%, +6.3pp) — even as full-time male headcount was shrinking.
 
@@ -109,35 +109,12 @@ The table below has the full picture for all 10 clusters — the overall part-ti
 
 **Overall part-time rate, by cluster**
 
-| Cluster | 2014 % PT | 2018 % PT | pp change |
-|---|---:|---:|---:|
-| Education | 39.74% | 44.20% | +4.46 |
-| Family & Community Services | 33.23% | 14.16% | −19.07 |
-| Finance, Services & Innovation | 9.69% | 24.16% | +14.47 |
-| Health | 30.80% | 33.15% | +2.35 |
-| Industry | 12.19% | 6.66% | −5.53 |
-| Justice | 8.85% | 10.57% | +1.72 |
-| Planning & Environment | 13.57% | 14.19% | +0.62 |
-| Premier & Cabinet | 13.86% | 12.92% | −0.95 |
-| Transport | 9.92% | 14.23% | +4.31 |
-| Treasury | 5.73% | 9.74% | +4.01 |
-| **Total Sector** | **26.67%** | **29.58%** | **+2.91** |
+![Overall part-time rate by cluster, 2014 vs 2018](assets/cluster-breakdown-overall.png)
 
 **Part-time rate by cluster, split by gender** — i.e. female part-time headcount ÷ total female headcount (and the same for male), so each column reads as a share of that gender's own workforce, not of total headcount.
 
-| Cluster | Female 2014 | Female 2018 | Δpp (F) | Male 2014 | Male 2018 | Δpp (M) |
-|---|---:|---:|---:|---:|---:|---:|
-| Education | 45.88% | 46.84% | +0.95 | 20.13% | 35.34% | +15.21 |
-| Family & Community Services | 36.92% | 16.92% | −20.00 | 21.35% | 4.69% | −16.66 |
-| Finance, Services & Innovation | 15.39% | 27.02% | +11.63 | 2.90% | 19.97% | +17.07 |
-| Health | 36.21% | 37.73% | +1.53 | 15.20% | 19.92% | +4.72 |
-| Industry | 17.99% | 10.86% | −7.13 | 5.13% | 1.98% | −3.16 |
-| Justice | 20.20% | 18.84% | −1.36 | 1.54% | 5.07% | +3.53 |
-| Planning & Environment | 25.35% | 24.70% | −0.65 | 5.16% | 5.13% | −0.02 |
-| Premier & Cabinet | 18.33% | 17.40% | −0.92 | 7.72% | 6.27% | −1.45 |
-| Transport | 25.30% | 18.22% | −7.08 | 5.25% | 12.95% | +7.71 |
-| Treasury | 7.65% | 14.18% | +6.53 | 2.38% | 2.99% | +0.61 |
-| **Total Sector** | **35.94%** | **36.67%** | **+0.72** | **10.17%** | **16.52%** | **+6.35** |
+![Part-time rate by cluster split by gender, 2014 vs 2018](assets/cluster-breakdown-by-gender.png)
+
 
 </details>
 
