@@ -1,4 +1,4 @@
-# NSW Public Sector Part-Time Workforce Analysis
+# NSW Public Sector Part-Time Workforce Analysis and Projection
 
 ### *Equal Part-Time Workforce Representation — A Briefing for the Workforce Diversity Steering Committee*
 
