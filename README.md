@@ -19,8 +19,6 @@ A data analytics case study analysing five years of NSW public sector workforce 
 - [Limitations & Caveats](#limitations--caveats)
 - [Tools & Skills Demonstrated](#tools--skills-demonstrated)
 - [Deliverables](#deliverables)
-- [Author](#author)
-- [License & Attribution](#license--attribution)
 
 ## Background
 
@@ -30,11 +28,11 @@ The NSW Public Service Commission (PSC) collects data on the NSW public sector w
 
 The Director needed a data-driven answer to one question ahead of a Workforce Diversity Steering Committee meeting: **are part-time employment arrangements increasing across the sector, and how does that vary by gender?** The analysis needed to cover:
 
-- [x] Trends over time in male and female employment, including any notable changes
-- [x] The current representation of part-time employees, sector-wide and by cluster
-- [x] The current representation of male and female part-time employees as a proportion of the respective male and female workforce, sector-wide and by cluster
-- [x] The change in both of the above statistics over the last 4 years
-- [x] A projection of part-time representation to 2025 if current trends continue
+1. Trends over time in male and female employment, including any notable changes
+2. The current representation of part-time employees, sector-wide and by cluster
+3. The current representation of male and female part-time employees as a proportion of the respective male and female workforce, sector-wide and by cluster
+4. The change in both of the above statistics over the last 4 years
+5. A projection of part-time representation to 2025 if current trends continue
 
 ## About the Data
 
@@ -86,6 +84,8 @@ The headline **1,891,836** figure is the sum of headcounts across all five years
 ## Key Findings
 
 ### 1. Headcount fell slightly, driven by a drop in male employees
+![Sector, female and male headcount trend, and representation by gender, 2014–2018](assets/headcount-trend-by-gender.png)
+
 Total sector headcount fell **0.76%** between 2014 and 2018 (382,385 → 379,460). That fall was driven almost entirely by male headcount, down **3.05%** (−4,198 people), while female headcount grew **0.52%** (+1,273). As a result, the female share of the sector rose from **64.0% to 64.8%**, and the male share fell from **36.0% to 35.2%**.
 
 ### 2. Part-time employment is rising — fastest among men
