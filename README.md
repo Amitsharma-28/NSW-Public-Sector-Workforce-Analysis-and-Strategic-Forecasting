@@ -118,7 +118,7 @@ Extrapolating current trends forward on a linear basis, sector-wide part-time re
 
 ## Discussion Points for the Committee
 
-The paper closes with four open questions, designed to prompt the Committee's discussion rather than pre-empt it:
+The analysis closes with four open questions, designed to prompt the Committee's discussion rather than pre-empt it:
 
 1. **Education's outsized role** — is its >40% part-time rate driven by the availability of part-time roles, workforce demand, or both?
 2. **Rising male part-time uptake** — male part-time representation grew from 10.2% to 16.5% in four years, even as full-time male headcount fell. What's driving this?
@@ -133,7 +133,7 @@ The paper closes with four open questions, designed to prompt the Committee's di
 
 ## Tools & Skills Demonstrated
 
-- **Microsoft Excel** — PivotTables and PivotCharts, wide-to-long data reshaping, KPI and percentage-point-change formulas, linear extrapolation for trend forecasting
+- **Microsoft Excel** — data cleaning, wide-to-long reshaping of raw census data, PivotTables and PivotCharts, KPI and percentage-point-change formulas, linear extrapolation for trend forecasting
 - **Workforce/diversity analytics** — gender-disaggregated rate analysis at sector and cluster level
 - **Stakeholder communication** — one analysis, delivered in two audience-appropriate formats: a written discussion paper and a Steering Committee slide deck
 
@@ -143,16 +143,4 @@ The paper closes with four open questions, designed to prompt the Committee's di
 |---|---|
 | 📊 [`NSWGov_Spreadsheet.xlsx`](./NSWGov_Spreadsheet.xlsx) | The full Excel workbook — raw data plus every analysis and pivot table behind the findings |
 | 📄 [`NSWGov_DiscussionPaper_PDF.pdf`](./NSWGov_DiscussionPaper_PDF.pdf) | The 3-page written discussion paper |
-| 📽️ [`NSWGov_PPT_PDF.pdf`](./NSWGov_PPT_PDF.pdf) | The slide deck version, formatted for the Steering Committee meeting |
-
-**Start here:** the discussion paper for the narrative and headline numbers, or the workbook if you want to explore or extend the pivot tables yourself.
-
-*(Links above assume these files sit alongside this README in the repo root — update the paths if your layout differs.)*
-
-## Author
-
-**Amit Sharma** — Data Analytics Case Study Project
-
-## License & Attribution
-
-This analysis is based on workforce data collected by the **NSW Public Service Commission** through its Workforce Profile collection. See the [PSC Workforce Profile](https://www.psc.nsw.gov.au/reports-and-data/workforce-profile) and [data.nsw.gov.au](https://data.nsw.gov.au/data/organization/public-service-commission) for more on the source collection. NSW Government open data is typically published under a Creative Commons Attribution licence — check the relevant dataset page for the exact terms that apply.
+| 📽️ [`NSWGov_PPT_PDF.pdf`](./NSWGov_PPT_PDF.pdf) | The slide deck presented at the Steering Committee meeting |
