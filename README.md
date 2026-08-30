@@ -107,7 +107,7 @@ Part-time growth is concentrated in a few clusters, and not all of them moved th
 - **Education** is the only cluster above 40% part-time (**44.2%** in 2018), and the single biggest contributor to the sector-wide increase
 - The **gender gap** in part-time rates varies from **~5pp in Transport** to **~20pp in Planning & Environment** — in every cluster, women are more likely than men to work part-time
 
-The table below has the full picture for all 10 clusters — the overall part-time rate, and the male/female split behind it:
+The tables below have the full picture for all 10 clusters — the overall part-time rate, and the male/female split behind it:
 
 **Overall part-time rate, by cluster**
  
